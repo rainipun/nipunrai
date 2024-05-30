@@ -1,4 +1,4 @@
 # nipunrai
 1st git repository
 <br>
-author-nipun rai
+author-nipun rai(thulung)
